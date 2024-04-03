@@ -26,7 +26,7 @@ def main() :
     write.txt("delivery.txt")
 
 def makeTest(num) :
-    # 指標
+    # indexs
     lat = 23
     lon = 120
 
